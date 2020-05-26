@@ -1,3 +1,3 @@
 # AtividadeAdapter
 
-Dupla Raimundo Gabriel e Samuel
+Dupla Raimundo Gabriel Ferreira e Samuel Alencar de Freitas
