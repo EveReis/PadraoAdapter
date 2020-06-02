@@ -1,24 +1,23 @@
-
 package atividadeadapter;
 
 public class AdaptadorSmartTV extends SmartTV implements Dispositivo{
 
     @Override
-    public void carregarFilme() {
-        this.carregarAplicacoes();
-        System.out.println("Carregando filme...");
+    public void carregaFilme() {
+        this.carregaAplicacoes();
+        System.out.println("Carregando o filme.");
     }
 
     @Override
-    public void pesquisarFilme() {
-        this.verificarRede();
-        System.out.println("Pesquisando filme");
+    public void pesquisaFilme() {
+        this.verificaRede();
+        System.out.println("Pesquisando o filme.");
     }
 
     @Override
-    public void assistirFilme() {
-        this.verificarRede();
-        System.out.println("Iniciando filme.");
+    public void assisteFilme() {
+        this.verificaRede();
+        System.out.println("Iniciando o filme.");
         
     }
     

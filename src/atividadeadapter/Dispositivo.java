@@ -2,10 +2,10 @@ package atividadeadapter;
 
 public interface Dispositivo {
 
-    void carregarFilme();
+    void carregaFilme();
 
-    void pesquisarFilme();
+    void pesquisaFilme();
 
-    void assistirFilme();
+    void assisteFilme();
 
 }

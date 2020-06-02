@@ -5,19 +5,19 @@ package atividadeadapter;
 public class Computador implements Dispositivo{
 
     @Override
-    public void carregarFilme() {
-        System.out.println("Carregando filme...");
+    public void carregaFilme() {
+        System.out.println("Carregando o filme.");
     }
 
     @Override
-    public void pesquisarFilme() {
-        System.out.println("Pesquisando filme");
+    public void pesquisaFilme() {
+        System.out.println("Pesquisando o filme.");
         
     }
 
     @Override
-    public void assistirFilme() {
-        System.out.println("Iniciando filme.");
+    public void assisteFilme() {
+        System.out.println("Iniciando o filme.");
     }
     
     

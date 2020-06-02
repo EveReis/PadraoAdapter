@@ -4,12 +4,12 @@ package atividadeadapter;
 
 public class SmartTV {
     
-    void verificarRede(){
-        System.out.println("Verificando rede...");
+    void verificaRede(){
+        System.out.println("Verificando a rede...");
     }
     
-    void carregarAplicacoes(){
-        System.out.println("Carregando aplicações...");
+    void carregaAplicacoes(){
+        System.out.println("Carregando as aplicações...");
     }
     
     
